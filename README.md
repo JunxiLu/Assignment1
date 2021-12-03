@@ -31,5 +31,5 @@ As this is a individual project and I had to start from scratch, I couldn't use 
 Credits:
 
 Media:
-Photo used for the home page(Computers):
+Photo used for the home page(Computers): https://www.hirewpgeeks.com/hiring-a-wordpress-developer-10-qualities-to-look-for-in-a-wordpress-expert/
 Rest of the photos used in the site were obtained from Lu Junxi(myself)
